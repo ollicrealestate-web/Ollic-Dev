@@ -1,0 +1,3 @@
+Merge audit
+===========
+Stage 2 contained every file from Stage 1. Stage 2 src/App.tsx and src/styles.css were newer versions and were retained. All Stage 2 project images were retained. Stage 1 files were included as the baseline, then Stage 2 was overlaid.
